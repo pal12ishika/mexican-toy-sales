@@ -10,3 +10,6 @@ Can you find any seasonal trends or patterns in the sales data?
 Are sales being lost with out-of-stock products at certain locations?
 
 How much money is tied up in inventory at the toy stores? How long will it last?
+
+LINK
+https://app.powerbi.com/links/56Lt5Q7hgw?ctid=f7bb7b78-48f1-4600-b735-fee62bad541e&pbi_source=linkShare
